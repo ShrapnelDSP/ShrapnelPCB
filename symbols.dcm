@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-DEVKIT-CVE
+D RF Module, ESP32-D0WD-V3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 4MB SPRAM, 2.7-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-E
+D RF Module, ESP32-D0WD-V3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 4MB SPRAM, 2.7-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+$CMP LMR50410
+F https://www.ti.com/lit/ds/symlink/lmr50410.pdf
+$ENDCMP
+#
+$CMP PCM3060
+D 24-BIT, 96/192-kHz ASYNCHRONOUS STEREO AUDIO CODEC
+K audio dac adc codec
+F https://www.ti.com/lit/ds/symlink/pcm3060.pdf
+$ENDCMP
+#
+$CMP TLV741xxPDBVR
+D Low Dropout regulator, positive, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+#End Doc Library
