@@ -392,8 +392,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "guitar_dsp_platform.step",
+      "vrml": "guitar_dsp_platform.wrl"
     },
     "page_layout_descr_file": ""
   },
