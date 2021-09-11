@@ -653,7 +653,7 @@
       (reference "D501") (unit 1) (value "BAT760-7") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/afc9c0f7-a2d4-4f03-9e3b-16004b3da3e9"
-      (reference "D502") (unit 1) (value "ZMM5242B") (footprint "Diode_SMD:D_MiniMELF")
+      (reference "D502") (unit 1) (value "TZMC12-GS08") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8212"
       (reference "FB201") (unit 1) (value "600R@100MHz") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
