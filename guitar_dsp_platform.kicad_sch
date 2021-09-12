@@ -511,6 +511,12 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00006001dfa8"
       (reference "#PWR0525") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005f70b353/a3a6b34f-0856-4224-9063-db122a29bfe1"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f70b353/abcd8462-c433-4d46-967d-362e1f2ac95a"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8182"
       (reference "C201") (unit 1) (value "22u") (footprint "Capacitor_SMD:CP_Elec_4x5.8")
     )
@@ -891,6 +897,12 @@
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/48eb521d-d270-4522-bfff-5a8cf3758174"
       (reference "R509") (unit 1) (value "33") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-00005f70b353/39b2a2ae-61f4-4866-9871-aeadaab8e6a8"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-00005f70b353/8602740c-eb32-4fda-b734-59b67d9ed182"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8237"
       (reference "TP201") (unit 1) (value "GUITAR_IN") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
