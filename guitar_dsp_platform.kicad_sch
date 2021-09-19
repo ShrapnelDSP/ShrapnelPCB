@@ -604,8 +604,8 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005ffef8ce"
       (reference "C502") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-00005f70d2fd/f7d2b78a-57a9-426d-8e3c-ddc582053f8c"
-      (reference "C503") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    (path "/00000000-0000-0000-0000-00005f70d2fd/ce500601-0bc0-4928-8ed9-44e65b8641b5"
+      (reference "C503") (unit 1) (value "47p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-000060255c4b"
       (reference "C504") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -614,7 +614,7 @@
       (reference "C505") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_6.3x5.8")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/e04f7795-7f49-4a30-8487-46cc818fd457"
-      (reference "C506") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C506") (unit 1) (value "3.3n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00006032198a"
       (reference "C507") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -634,8 +634,8 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/a3acf3f6-8f6f-4aa0-bb0f-11b70754ff61"
       (reference "C512") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_6.3x5.8")
     )
-    (path "/00000000-0000-0000-0000-00005f70d2fd/22d86f15-d401-4bce-8440-bb9edf72a3a1"
-      (reference "C513") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    (path "/00000000-0000-0000-0000-00005f70d2fd/0e4714c2-219a-4e4a-b69f-43b5c1333220"
+      (reference "C513") (unit 1) (value "3.3n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/7d809a3b-8353-496a-b0ba-f8cdde638563"
       (reference "C514") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -884,7 +884,7 @@
       (reference "R414") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/bc93065d-963d-426f-ad2d-64daa5416e23"
-      (reference "R501") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R501") (unit 1) (value "12.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/690d6ac3-4fdb-4a6b-9327-4d606717b440"
       (reference "R502") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
