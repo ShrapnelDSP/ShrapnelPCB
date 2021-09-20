@@ -880,7 +880,7 @@
       (reference "D401") (unit 1) (value "BAS40-04") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-00005f70b353/8707add0-607b-4e2f-989d-203f383c2a0d"
-      (reference "D402") (unit 1) (value "BAT760-7") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "D402") (unit 1) (value "SS16-HF") (footprint "Diode_SMD:D_SMA_Handsoldering")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/d26a9299-1a27-48c0-9416-b730da7b366a"
       (reference "D501") (unit 1) (value "SS16-HF") (footprint "Diode_SMD:D_SMA_Handsoldering")
