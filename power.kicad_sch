@@ -2560,7 +2560,7 @@
     (uuid 00000000-0000-0000-0000-00005ffeb767)
     (property "Reference" "L501" (id 0) (at 228.6 29.845 90))
     (property "Value" "22u" (id 1) (at 228.6 32.1564 90))
-    (property "Footprint" "" (id 2) (at 228.6 35.56 0)
+    (property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_NR-50xx_HandSoldering" (id 2) (at 228.6 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.octopart.com/NRS8040T150MJGJ-Taiyo-Yuden-datasheet-12503625.pdf" (id 3) (at 228.6 35.56 0)

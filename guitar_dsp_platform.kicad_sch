@@ -5,6 +5,210 @@
   (paper "A4")
 
   (lib_symbols
+    (symbol "Mechanical:Housing" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "N" (id 0) (at 3.81 0 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "Housing" (id 1) (at 3.81 -1.905 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "" (id 2) (at 1.27 1.27 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (id 3) (at 1.27 1.27 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "housing enclosure" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Housing" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "Enclosure* Housing*" (id 6) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "Housing_0_1"
+        (circle (center -4.445 -3.175) (radius 0.635) (stroke (width 0)) (fill (type outline)))
+        (circle (center -1.905 -3.175) (radius 0.635) (stroke (width 0)) (fill (type outline)))
+        (rectangle (start -5.08 -0.635) (end -1.27 -1.905)
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.5212 -1.5748)
+            (xy -4.4704 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.4196 -1.6764)
+            (xy -4.064 -1.6764)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.4196 -1.2192)
+            (xy -4.3688 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.318 -1.3208)
+            (xy -4.0132 -1.3208)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.2164 -0.9144)
+            (xy -3.9116 -0.9144)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.9116 -1.6256)
+            (xy -3.8608 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.81 -1.2192)
+            (xy -3.7592 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.6068 -1.5748)
+            (xy -3.556 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.5052 -1.6764)
+            (xy -3.1496 -1.6764)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.5052 -1.2192)
+            (xy -3.4544 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.4036 -1.3208)
+            (xy -3.0988 -1.3208)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.302 -0.9144)
+            (xy -2.9972 -0.9144)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.9972 -1.6256)
+            (xy -2.9464 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.8956 -1.2192)
+            (xy -2.8448 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.6924 -1.5748)
+            (xy -2.6416 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.5908 -1.6764)
+            (xy -2.2352 -1.6764)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.5908 -1.2192)
+            (xy -2.54 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.4892 -1.3208)
+            (xy -2.1844 -1.3208)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.3876 -0.9144)
+            (xy -2.0828 -0.9144)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.0828 -1.6256)
+            (xy -2.032 -1.3716)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.9812 -1.2192)
+            (xy -1.9304 -0.9652)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -0.635 0)
+            (xy -0.635 -4.445)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.715 0)
+            (xy -0.635 0)
+            (xy 3.175 3.81)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.715 0)
+            (xy -5.715 -4.445)
+            (xy -0.635 -4.445)
+            (xy 3.175 -0.635)
+            (xy 3.175 3.81)
+            (xy -1.905 3.81)
+            (xy -5.715 0)
+          )
+          (stroke (width 0)) (fill (type background))
+        )
+      )
+    )
   )
 
 
@@ -87,6 +291,26 @@
   (wire (pts (xy 154.94 123.19) (xy 139.7 123.19))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 74b42916-b74d-427f-b0be-2ca120e216c9)
+  )
+
+  (symbol (lib_id "Mechanical:Housing") (at 168.91 62.23 0) (unit 1)
+    (in_bom yes) (on_board no) (fields_autoplaced)
+    (uuid f174f29f-048a-478c-ae70-ff5265ccbc5a)
+    (property "Reference" "N101" (id 0) (at 173.99 61.2774 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1598B" (id 1) (at 173.99 63.8174 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 170.18 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.mouser.co.uk/datasheet/2/177/1598-1389900.pdf" (id 3) (at 170.18 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PN" "1598BSGYPBK" (id 4) (at 168.91 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
   )
 
   (sheet (at 71.12 106.68) (size 16.51 30.48) (fields_autoplaced)
@@ -722,7 +946,10 @@
       (reference "J501") (unit 1) (value "PJ-002AH-SMT-TR") (footprint "guitar_dsp_platform:CUI_PJ-002AH-SMT-TR")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005ffeb767"
-      (reference "L501") (unit 1) (value "22u") (footprint "")
+      (reference "L501") (unit 1) (value "22u") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx_HandSoldering")
+    )
+    (path "/f174f29f-048a-478c-ae70-ff5265ccbc5a"
+      (reference "N101") (unit 1) (value "1598B") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005f70b353/7767c818-8af3-45a4-82d3-f66fb3d5e84c"
       (reference "Q401") (unit 1) (value "MMBT3904") (footprint "Package_TO_SOT_SMD:SOT-23")
