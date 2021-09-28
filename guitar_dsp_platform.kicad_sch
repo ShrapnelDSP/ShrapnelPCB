@@ -525,8 +525,20 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/efc4b759-51d5-44d9-b5f4-5cf814e21557"
       (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/9b7e83c7-7340-416b-a692-7c0c9de7d0db"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005f70b353/0a8e0b42-ba35-471e-931a-4f1e046cd8df"
       (reference "#PWR0103") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/3f3f3a72-37a3-4fe2-b162-822e955b10fd"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/242f5fdc-10de-4659-a1cf-bbd14e9ac5a6"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/be965609-0c43-46e5-80d1-f9c299fac093"
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-0000601a2ce7"
       (reference "#PWR0201") (unit 1) (value "+5VA") (footprint "")
@@ -891,6 +903,9 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/2a3a8c62-9725-47a1-9124-efb7fbb93359"
       (reference "D503") (unit 1) (value "SS16-HF") (footprint "Diode_SMD:D_SMA_Handsoldering")
     )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/be59f724-8589-416c-a2a4-ea6a550bac7f"
+      (reference "D504") (unit 1) (value "LS R976-NR-1") (footprint "LED_SMD:LED_0805_2012Metric_Castellated")
+    )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8212"
       (reference "FB201") (unit 1) (value "1000R@100MHz") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -1137,6 +1152,9 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/48eb521d-d270-4522-bfff-5a8cf3758174"
       (reference "R509") (unit 1) (value "33") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/cbc3793f-ccd7-4704-a264-45651aa99354"
+      (reference "R510") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8237"
       (reference "TP201") (unit 1) (value "GUITAR_IN") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
     )
@@ -1172,6 +1190,18 @@
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-000060032c8b"
       (reference "TP504") (unit 1) (value "+5V") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/35da8f47-6140-4c1a-b6a3-19d686284eb2"
+      (reference "TP505") (unit 1) (value "GND") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/259c66a4-5b17-4322-9887-370e4ff145c3"
+      (reference "TP506") (unit 1) (value "GND") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/50377b83-4987-480f-839d-a19dcd42f222"
+      (reference "TP507") (unit 1) (value "GND") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/ee6394d4-7e4c-43a8-a783-c1660fd91ab4"
+      (reference "TP508") (unit 1) (value "GND") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
     )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb81fe"
       (reference "U201") (unit 1) (value "OPA2156ID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
