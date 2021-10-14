@@ -1215,6 +1215,7 @@
     )
   )
 
+
   (junction (at 69.85 20.32) (diameter 0) (color 0 0 0 0))
   (junction (at 93.98 20.32) (diameter 0) (color 0 0 0 0))
   (junction (at 157.48 148.59) (diameter 0.9144) (color 0 0 0 0))
@@ -2788,10 +2789,10 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 214.63 135.255 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (id 3) (at 209.55 133.35 0)
+    (property "Datasheet" "https://www.mouser.co.uk/datasheet/2/80/MMBT3904_G_RevE-2506519.pdf" (id 3) (at 209.55 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "PN" "MMBT3904LT1XT" (id 4) (at 209.55 133.35 0)
+    (property "PN" "MMBT3904-G" (id 4) (at 209.55 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cc9671aa-0788-43b1-bd5e-7f40391b54ac))
