@@ -28,164 +28,191 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "Housing_0_1"
-        (circle (center -4.445 -3.175) (radius 0.635) (stroke (width 0)) (fill (type outline)))
-        (circle (center -1.905 -3.175) (radius 0.635) (stroke (width 0)) (fill (type outline)))
         (rectangle (start -5.08 -0.635) (end -1.27 -1.905)
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (circle (center -4.445 -3.175) (radius 0.635) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (circle (center -1.905 -3.175) (radius 0.635) (stroke (width 0))           (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type outline))
         )
         (polyline
           (pts
             (xy -4.5212 -1.5748)
             (xy -4.4704 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -4.4196 -1.6764)
             (xy -4.064 -1.6764)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -4.4196 -1.2192)
             (xy -4.3688 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -4.318 -1.3208)
             (xy -4.0132 -1.3208)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -4.2164 -0.9144)
             (xy -3.9116 -0.9144)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.9116 -1.6256)
             (xy -3.8608 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.81 -1.2192)
             (xy -3.7592 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.6068 -1.5748)
             (xy -3.556 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.5052 -1.6764)
             (xy -3.1496 -1.6764)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.5052 -1.2192)
             (xy -3.4544 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.4036 -1.3208)
             (xy -3.0988 -1.3208)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -3.302 -0.9144)
             (xy -2.9972 -0.9144)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.9972 -1.6256)
             (xy -2.9464 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.8956 -1.2192)
             (xy -2.8448 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.6924 -1.5748)
             (xy -2.6416 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.5908 -1.6764)
             (xy -2.2352 -1.6764)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.5908 -1.2192)
             (xy -2.54 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.4892 -1.3208)
             (xy -2.1844 -1.3208)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.3876 -0.9144)
             (xy -2.0828 -0.9144)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.0828 -1.6256)
             (xy -2.032 -1.3716)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -1.9812 -1.2192)
             (xy -1.9304 -0.9652)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -0.635 0)
             (xy -0.635 -4.445)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
@@ -193,7 +220,8 @@
             (xy -0.635 0)
             (xy 3.175 3.81)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
@@ -205,7 +233,8 @@
             (xy -1.905 3.81)
             (xy -5.715 0)
           )
-          (stroke (width 0)) (fill (type background))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type background))
         )
       )
     )
@@ -522,9 +551,6 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/0a4c08aa-c06f-479d-8e0e-49dc58d07af2"
       (reference "#FLG0505") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005f70d2fd/efc4b759-51d5-44d9-b5f4-5cf814e21557"
-      (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005f70d2fd/9b7e83c7-7340-416b-a692-7c0c9de7d0db"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
@@ -720,9 +746,6 @@
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005f8b4b61"
       (reference "#PWR0511") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-0000603e7f23"
-      (reference "#PWR0515") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005f87c315"
       (reference "#PWR0516") (unit 1) (value "+5VA") (footprint "")
     )
@@ -834,6 +857,9 @@
     (path "/00000000-0000-0000-0000-00005f70b353/9dfb30f1-ae8a-4a41-8c57-07b9480e010d"
       (reference "C404") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
+    (path "/00000000-0000-0000-0000-00005f70b353/e22f214b-cede-4a00-8d95-fa0ef4892d40"
+      (reference "C405") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005f88f0fe"
       (reference "C501") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_6.3x7.7")
     )
@@ -863,9 +889,6 @@
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-0000602c98e1"
       (reference "C510") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f70d2fd/00000000-0000-0000-0000-00005f8885ed"
-      (reference "C511") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_6.3x7.7")
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/a3acf3f6-8f6f-4aa0-bb0f-11b70754ff61"
       (reference "C512") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_6.3x7.7")
@@ -965,6 +988,9 @@
     )
     (path "/f174f29f-048a-478c-ae70-ff5265ccbc5a"
       (reference "N101") (unit 1) (value "1598B") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005f71517b/c5675d4c-b245-493b-8739-2ab0f8b6897d"
+      (reference "NT301") (unit 1) (value "Net-Tie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
     )
     (path "/00000000-0000-0000-0000-00005f70b353/7767c818-8af3-45a4-82d3-f66fb3d5e84c"
       (reference "Q401") (unit 1) (value "MMBT3904") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -1125,6 +1151,9 @@
     (path "/00000000-0000-0000-0000-00005f70b353/8602740c-eb32-4fda-b734-59b67d9ed182"
       (reference "R414") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/00000000-0000-0000-0000-00005f70b353/e9e41419-dab3-4176-9827-eac2c8e71808"
+      (reference "R415") (unit 1) (value "0") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
     (path "/00000000-0000-0000-0000-00005f70d2fd/bc93065d-963d-426f-ad2d-64daa5416e23"
       (reference "R501") (unit 1) (value "12.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -1154,6 +1183,9 @@
     )
     (path "/00000000-0000-0000-0000-00005f70d2fd/cbc3793f-ccd7-4704-a264-45651aa99354"
       (reference "R510") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-00005f70d2fd/6f67b828-caa2-4145-a1bd-859a378b4925"
+      (reference "R511") (unit 1) (value "33") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005fc20ef1/00000000-0000-0000-0000-00005feb8237"
       (reference "TP201") (unit 1) (value "GUITAR_IN") (footprint "guitar_dsp_platform:TestPoint_THTPad_D2.0mm_Drill1.0mm")
