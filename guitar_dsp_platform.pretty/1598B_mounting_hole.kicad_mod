@@ -1,0 +1,18 @@
+(footprint "1598B_mounting_hole" (version 20211014) (generator pcbnew) (layer "F.Cu")
+  (tedit 617AFBC9)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -4.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ebc38adb-d083-472b-bc35-2e45bfac7113)
+  )
+  (fp_text value "1598B_mounting_hole" (at 0 6.2 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0d0e29ce-6301-4d8a-826b-1d5cc3d44b43)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6c3fe544-a579-4ca0-a3df-705c0776c3ed)
+  )
+  (pad "1" thru_hole oval (at 0 0) (size 7.5 6.5) (drill oval 4.5 3.5) (layers *.Cu *.Mask)
+    (zone_connect 2) (tstamp cb42b1bc-dcc3-40e6-9851-ae9c79043840))
+)
