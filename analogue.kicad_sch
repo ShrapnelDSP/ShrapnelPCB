@@ -1441,7 +1441,6 @@
     )
   )
 
-
   (junction (at 34.29 22.86) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 34.29 27.94) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 38.1 73.66) (diameter 0.9144) (color 0 0 0 0))

@@ -2693,7 +2693,7 @@
     (property "Datasheet" "~" (id 3) (at 153.67 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PN" "CR0805-FX-2002ELF" (id 4) (at 153.67 44.45 0)
+    (property "PN" "CR0805-FX-4702ELF" (id 4) (at 153.67 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dfaf3d30-081f-4f9c-931f-427d0854af60))
